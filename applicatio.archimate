@@ -7,7 +7,7 @@
     <element xsi:type="archimate:DataObject" name="Changes 1 in Data" id="id-9b10bb1493a846f6a8179bb2a653c4f6"/>
     <element xsi:type="archimate:DataObject" name="changes 2 in   Data" id="id-8f0fd542ad154f2e92de45bb1c1137dd"/>
     <element xsi:type="archimate:DataObject" name="changes 3 in Data" id="id-0f27311cbf3c433f8cca356b54720dd6"/>
-    <element xsi:type="archimate:ApplicationFunction" name="Policy Creation" id="id-00f12cebd57545499eb2835585543e96"/>
+    <element xsi:type="archimate: name="Policy Creation" id="id-00f12cebd57545499eb2835585543e96"/>
     <element xsi:type="archimate:ApplicationFunction" name="Calculate Risk" id="id-1c318ae33fba467a8fb4d137be624ab8"/>
     <element xsi:type="archimate:ApplicationFunction" name="Calculate Premium" id="id-b1c0128374bf45afa021051d03f02c0a"/>
     <element xsi:type="archimate:ApplicationFunction" name="Create Policy" id="id-319acba0489e4d42acbacb73c81c8f7d"/>
